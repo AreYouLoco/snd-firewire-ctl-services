@@ -172,6 +172,7 @@ your device, please contact to developer.
   * Lexicon I-ONIX FW810s
   * Focusrite Saffire Pro 40
   * Focusrite Liquid Saffire 56
+  * Focusrite Saffire Pro 14
   * Focusrite Saffire Pro 26
   * PreSonus FireStudio
   * PreSonus FireStudio Project
